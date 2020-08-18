@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e55c7aa1-1c3e-4e45-b13d-3fa3d8219f57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1g8BKmSs2pBxOxeTQfZgQL9Jz4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django-channels-chat-master" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django-channels-chat-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="manage.py runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.django-channels-chat-master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e55c7aa1-1c3e-4e45-b13d-3fa3d8219f57" name="Default Changelist" comment="" />
+      <created>1597486277489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597486277489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Notifications" timestamp="1597759198268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597759198268" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597496899663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597496899663" />
+    <state x="448" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597493815617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597493815617" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1597758714059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597758714059" />
+    <state x="543" y="258" key="Github.ShareDialog" timestamp="1597758732621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="543" y="258" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1597758732621" />
+    <state width="1328" height="438" key="GridCell.Tab.0.bottom" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state width="1328" height="438" key="GridCell.Tab.0.center" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state width="1328" height="438" key="GridCell.Tab.0.left" timestamp="1597497177306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597497177306" />
+    <state width="1328" height="438" key="GridCell.Tab.0.right" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state width="1328" height="438" key="GridCell.Tab.1.bottom" timestamp="1597497177308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597497177308" />
+    <state width="1328" height="438" key="GridCell.Tab.1.center" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state width="1328" height="438" key="GridCell.Tab.1.left" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state width="1328" height="438" key="GridCell.Tab.1.right" timestamp="1597497177307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1328" height="438" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597497177307" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1597759190947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597759190947" />
+    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597759216809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597759216809" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597758408429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597758408429" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1597497565668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1597497565668" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/consumers.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/api.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/api.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
